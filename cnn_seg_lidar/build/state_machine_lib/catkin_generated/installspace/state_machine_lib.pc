@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/cnn_seg_lidar/install
+
+Name: state_machine_lib
+Description: Description of state_machine_lib
+Version: 1.7.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lstate_machine_lib
+Requires: roscpp rockauto_msgs

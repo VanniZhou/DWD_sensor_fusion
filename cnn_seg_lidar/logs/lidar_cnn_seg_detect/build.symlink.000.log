@@ -1,0 +1,4 @@
+Symlinking /home/vincent/cnn_seg_lidar/devel/share/lidar_cnn_seg_detect/cmake/lidar_cnn_seg_detectConfig.cmake
+Symlinking /home/vincent/cnn_seg_lidar/devel/share/lidar_cnn_seg_detect/cmake/lidar_cnn_seg_detectConfig-version.cmake
+Symlinking /home/vincent/cnn_seg_lidar/devel/lib/lidar_cnn_seg_detect/lidar_cnn_seg_detect
+Symlinking /home/vincent/cnn_seg_lidar/devel/lib/pkgconfig/lidar_cnn_seg_detect.pc

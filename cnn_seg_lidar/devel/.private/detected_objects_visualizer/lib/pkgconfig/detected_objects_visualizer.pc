@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/detected_objects_visualizer
+
+Name: detected_objects_visualizer
+Description: Description of detected_objects_visualizer
+Version: 1.11.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rockauto_msgs geometry_msgs sensor_msgs tf visualization_msgs

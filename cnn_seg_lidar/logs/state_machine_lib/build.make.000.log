@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target state_machine_lib[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/state_machine_lib.dir/src/state_context.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/vincent/cnn_seg_lidar/devel/.private/state_machine_lib/lib/libstate_machine_lib.so[0m
+[100%] Built target state_machine_lib

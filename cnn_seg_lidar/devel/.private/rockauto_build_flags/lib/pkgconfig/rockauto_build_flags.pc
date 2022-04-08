@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/rockauto_build_flags
+
+Name: rockauto_build_flags
+Description: Description of rockauto_build_flags
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

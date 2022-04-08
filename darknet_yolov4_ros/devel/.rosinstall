@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vincent/sensor_fusion/darknet_yolov4_ros/devel/setup.sh

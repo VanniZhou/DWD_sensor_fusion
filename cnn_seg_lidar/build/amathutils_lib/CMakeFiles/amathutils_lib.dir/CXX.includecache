@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vincent/sensor_fusion/cnn_seg_lidar/src/common/libs/amathutils_lib/include/amathutils_lib/amathutils.hpp
+cmath
+-
+iostream
+-
+
+/home/vincent/sensor_fusion/cnn_seg_lidar/src/common/libs/amathutils_lib/src/Amathutils.cpp
+amathutils_lib/amathutils.hpp
+/home/vincent/sensor_fusion/cnn_seg_lidar/src/common/libs/amathutils_lib/src/amathutils_lib/amathutils.hpp
+

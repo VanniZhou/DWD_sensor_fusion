@@ -1,0 +1,2 @@
+set(depthGet_MESSAGE_FILES "/home/vincent/sensor_fusion/sensor_fusion/src/depthGet/msg/BoundingBox.msg;/home/vincent/sensor_fusion/sensor_fusion/src/depthGet/msg/BoundingBoxes.msg;/home/vincent/sensor_fusion/sensor_fusion/src/depthGet/msg/BboxL.msg;/home/vincent/sensor_fusion/sensor_fusion/src/depthGet/msg/BboxLes.msg")
+set(depthGet_SERVICE_FILES "")

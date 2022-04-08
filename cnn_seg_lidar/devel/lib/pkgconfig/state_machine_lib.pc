@@ -1,0 +1,1 @@
+/home/vincent/cnn_seg_lidar/devel/.private/state_machine_lib/lib/pkgconfig/state_machine_lib.pc

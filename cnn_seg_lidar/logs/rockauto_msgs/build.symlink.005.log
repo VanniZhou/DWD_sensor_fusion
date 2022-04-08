@@ -1,0 +1,637 @@
+Warning: Cannot symlink from /home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/rockauto_msgs/share/rockauto_msgs/cmake/rockauto_msgsConfig.cmake to existing file /home/vincent/sensor_fusion/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgsConfig.cmake
+Warning: Source hash: 49a2dccb521e207bfb23addc4d6c1572
+Warning: Dest hash: f59ac1cf5c0f26a591d8cd24df14adc1
+Warning: Cannot symlink from /home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/rockauto_msgs/share/rockauto_msgs/cmake/rockauto_msgs-msg-extras.cmake to existing file /home/vincent/sensor_fusion/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgs-msg-extras.cmake
+Warning: Source hash: ebb0e7a9fe015f9222715b6f0dc29167
+Warning: Dest hash: 502d30da0f82d01fe483d18fa5dfe821
+Warning: Cannot symlink from /home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/rockauto_msgs/share/rockauto_msgs/cmake/rockauto_msgs-msg-paths.cmake to existing file /home/vincent/sensor_fusion/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgs-msg-paths.cmake
+Warning: Source hash: d65c34b1b44a5a7383c68a334d1a30a9
+Warning: Dest hash: 1402a43d3dd4eab2dac70ab7d7b910d9
+Warning: Cannot symlink from /home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/pkgconfig/rockauto_msgs.pc to existing file /home/vincent/sensor_fusion/cnn_seg_lidar/devel/lib/pkgconfig/rockauto_msgs.pc
+Warning: Source hash: 74ebacfc4215fffbda993f2bbb2f1da6
+Warning: Dest hash: 7f82340c45ea6cdc44d7b6699e74dd1f
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/cmake.lock, /home/vincent/cnn_seg_lidar/devel/./cmake.lock)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/manifest.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/manifest.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/SyncTimeDiff.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/SyncTimeDiff.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/TrafficLightResultArray.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TrafficLightResultArray.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ControlCommand.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ControlCommand.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/DetectedObjectArray.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/DetectedObjectArray.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ImageObjects.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObjects.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/SyncTimeMonitor.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/SyncTimeMonitor.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/RemoteCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/RemoteCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/IndicatorCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/IndicatorCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/GeometricRectangle.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/GeometricRectangle.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/BrakeCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/BrakeCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ImageRectRanged.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageRectRanged.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/PointsImage.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/PointsImage.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/VscanTracked.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VscanTracked.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/CloudCluster.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/CloudCluster.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/WaypointState.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/WaypointState.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/LaneArray.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/LaneArray.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ObjLabel.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ObjLabel.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ValueSet.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ValueSet.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/VehicleStatus.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VehicleStatus.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/AdjustXY.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/AdjustXY.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/TrafficLightResult.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TrafficLightResult.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ImageObjRanged.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObjRanged.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/VehicleCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VehicleCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/StateCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/StateCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/Centroids.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Centroids.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/DetectedObject.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/DetectedObject.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/Signals.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Signals.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/LampCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/LampCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/CloudClusterArray.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/CloudClusterArray.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/AccelCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/AccelCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ProjectionMatrix.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ProjectionMatrix.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/DTLane.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/DTLane.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/TrafficLight.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TrafficLight.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ImageObjTracked.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObjTracked.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ExtractedPosition.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ExtractedPosition.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/VscanTrackedArray.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VscanTrackedArray.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ImageLaneObjects.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageLaneObjects.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/Waypoint.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Waypoint.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ImageRect.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageRect.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ScanImage.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ScanImage.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/State.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/State.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/NDTStat.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/NDTStat.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/TunedResult.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TunedResult.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/SteerCmd.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/SteerCmd.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ObjPose.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ObjPose.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ICPStat.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ICPStat.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ControlCommandStamped.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ControlCommandStamped.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ImageObj.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObj.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ColorSet.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ColorSet.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/Lane.l, /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Lane.l)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ColorSet.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ColorSet.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_CloudClusterArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_CloudClusterArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageLaneObjects.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageLaneObjects.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/LaneArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/LaneArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ProjectionMatrix.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ProjectionMatrix.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_StateCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_StateCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/SyncTimeDiff.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/SyncTimeDiff.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_SyncTimeMonitor.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_SyncTimeMonitor.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/BrakeCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/BrakeCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/AccelCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/AccelCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/WaypointState.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/WaypointState.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/AdjustXY.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/AdjustXY.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_State.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_State.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLightResultArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLightResultArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_SteerCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_SteerCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ExtractedPosition.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ExtractedPosition.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ImageObj.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObj.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/GeometricRectangle.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/GeometricRectangle.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_WaypointState.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_WaypointState.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/VehicleStatus.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VehicleStatus.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ICPStat.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ICPStat.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/SyncTimeMonitor.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/SyncTimeMonitor.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ImageRect.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageRect.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_DetectedObject.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_DetectedObject.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/VehicleCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VehicleCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/DetectedObject.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/DetectedObject.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_VscanTracked.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VscanTracked.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/State.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/State.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/CloudCluster.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/CloudCluster.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ImageObjects.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObjects.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ImageRectRanged.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageRectRanged.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/VscanTracked.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VscanTracked.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_TunedResult.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TunedResult.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ProjectionMatrix.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ProjectionMatrix.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/TrafficLightResultArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TrafficLightResultArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_NDTStat.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_NDTStat.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/NDTStat.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/NDTStat.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/Waypoint.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Waypoint.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ValueSet.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ValueSet.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLightResult.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLightResult.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/CloudClusterArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/CloudClusterArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ScanImage.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ScanImage.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ScanImage.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ScanImage.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ControlCommandStamped.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ControlCommandStamped.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/DetectedObjectArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/DetectedObjectArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/TunedResult.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TunedResult.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ImageObjTracked.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObjTracked.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/DTLane.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/DTLane.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ValueSet.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ValueSet.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/LampCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/LampCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_AccelCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_AccelCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ControlCommand.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ControlCommand.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/RemoteCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/RemoteCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/Signals.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Signals.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageRectRanged.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageRectRanged.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_VehicleCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VehicleCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ControlCommand.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ControlCommand.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_Waypoint.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Waypoint.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_GeometricRectangle.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_GeometricRectangle.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLight.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLight.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_Lane.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Lane.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjects.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjects.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/TrafficLightResult.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TrafficLightResult.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ObjLabel.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ObjLabel.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjTracked.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjTracked.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_PointsImage.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_PointsImage.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/Centroids.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Centroids.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_Centroids.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Centroids.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_DTLane.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_DTLane.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/StateCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/StateCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ExtractedPosition.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ExtractedPosition.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_VehicleStatus.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VehicleStatus.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_RemoteCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_RemoteCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_DetectedObjectArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_DetectedObjectArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_Signals.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Signals.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_AdjustXY.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_AdjustXY.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ImageLaneObjects.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageLaneObjects.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ColorSet.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ColorSet.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/SteerCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/SteerCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageRect.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageRect.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_LaneArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_LaneArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_SyncTimeDiff.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_SyncTimeDiff.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObj.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObj.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_LampCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_LampCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ObjLabel.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ObjLabel.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/TrafficLight.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TrafficLight.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ControlCommandStamped.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ControlCommandStamped.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_VscanTrackedArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VscanTrackedArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ObjPose.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ObjPose.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/Lane.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Lane.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_CloudCluster.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_CloudCluster.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/VscanTrackedArray.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VscanTrackedArray.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_IndicatorCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_IndicatorCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjRanged.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjRanged.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/IndicatorCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/IndicatorCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/PointsImage.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/PointsImage.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/rockauto_msgs-msg.asd, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/rockauto_msgs-msg.asd)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/ImageObjRanged.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObjRanged.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_BrakeCmd.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_BrakeCmd.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ObjPose.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ObjPose.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/common-lisp/ros/rockauto_msgs/msg/_package_ICPStat.lisp, /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ICPStat.lisp)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/rockauto_msgs/cmake/rockauto_msgsConfig.cmake, /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgsConfig.cmake)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/rockauto_msgs/cmake/rockauto_msgs-msg-extras.cmake, /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgs-msg-extras.cmake)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/rockauto_msgs/cmake/rockauto_msgsConfig-version.cmake, /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgsConfig-version.cmake)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/rockauto_msgs/cmake/rockauto_msgs-msg-paths.cmake, /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgs-msg-paths.cmake)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/_index.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/_index.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/AdjustXY.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/AdjustXY.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ScanImage.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ScanImage.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/TrafficLightResult.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TrafficLightResult.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/DetectedObjectArray.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/DetectedObjectArray.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/StateCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/StateCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/SyncTimeDiff.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/SyncTimeDiff.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ProjectionMatrix.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ProjectionMatrix.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ICPStat.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ICPStat.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/CloudClusterArray.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/CloudClusterArray.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/Signals.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Signals.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/Lane.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Lane.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/LaneArray.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/LaneArray.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ObjLabel.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ObjLabel.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/Waypoint.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Waypoint.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/CloudCluster.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/CloudCluster.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ImageLaneObjects.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageLaneObjects.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/BrakeCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/BrakeCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/PointsImage.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/PointsImage.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/VehicleCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VehicleCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/DTLane.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/DTLane.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ImageObjTracked.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObjTracked.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/SteerCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/SteerCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/TunedResult.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TunedResult.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/State.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/State.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ImageObjRanged.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObjRanged.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/NDTStat.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/NDTStat.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/_index.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/_index.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/WaypointState.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/WaypointState.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/VehicleStatus.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VehicleStatus.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ValueSet.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ValueSet.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ImageObj.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObj.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/Centroids.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Centroids.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/IndicatorCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/IndicatorCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ImageRectRanged.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageRectRanged.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/LampCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/LampCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ColorSet.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ColorSet.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/TrafficLight.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TrafficLight.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ExtractedPosition.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ExtractedPosition.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/AccelCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/AccelCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/DetectedObject.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/DetectedObject.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ImageRect.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageRect.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/TrafficLightResultArray.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TrafficLightResultArray.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/RemoteCmd.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/RemoteCmd.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ImageObjects.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObjects.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ObjPose.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ObjPose.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ControlCommandStamped.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ControlCommandStamped.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/VscanTracked.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VscanTracked.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/VscanTrackedArray.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VscanTrackedArray.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/GeometricRectangle.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/GeometricRectangle.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/SyncTimeMonitor.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/SyncTimeMonitor.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/gennodejs/ros/rockauto_msgs/msg/ControlCommand.js, /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ControlCommand.js)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/DetectedObject.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/DetectedObject.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ICPStat.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ICPStat.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/CloudCluster.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/CloudCluster.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ImageRectRanged.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageRectRanged.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ImageObj.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObj.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/AccelCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/AccelCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ColorSet.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ColorSet.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ValueSet.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ValueSet.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/Waypoint.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Waypoint.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/Centroids.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Centroids.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/SteerCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/SteerCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/TrafficLight.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TrafficLight.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/TrafficLightResult.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TrafficLightResult.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/VehicleCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VehicleCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/VehicleStatus.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VehicleStatus.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ControlCommand.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ControlCommand.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/TrafficLightResultArray.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TrafficLightResultArray.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ObjPose.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ObjPose.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/GeometricRectangle.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/GeometricRectangle.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/RemoteCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/RemoteCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/PointsImage.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/PointsImage.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/NDTStat.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/NDTStat.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/LaneArray.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/LaneArray.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/DetectedObjectArray.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/DetectedObjectArray.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ImageObjRanged.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObjRanged.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ControlCommandStamped.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ControlCommandStamped.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/LampCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/LampCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/State.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/State.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ImageObjTracked.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObjTracked.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ObjLabel.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ObjLabel.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/Signals.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Signals.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ExtractedPosition.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ExtractedPosition.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/DTLane.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/DTLane.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/StateCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/StateCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/Lane.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Lane.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/BrakeCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/BrakeCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/WaypointState.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/WaypointState.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ImageRect.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageRect.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/VscanTrackedArray.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VscanTrackedArray.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/IndicatorCmd.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/IndicatorCmd.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/CloudClusterArray.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/CloudClusterArray.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ImageLaneObjects.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageLaneObjects.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ImageObjects.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObjects.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/SyncTimeDiff.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/SyncTimeDiff.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ProjectionMatrix.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ProjectionMatrix.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/ScanImage.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ScanImage.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/TunedResult.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TunedResult.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/VscanTracked.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VscanTracked.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/SyncTimeMonitor.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/SyncTimeMonitor.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/include/rockauto_msgs/AdjustXY.h, /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/AdjustXY.h)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/__init__.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/__init__.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_SteerCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_SteerCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_SyncTimeDiff.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_SyncTimeDiff.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageLaneObjects.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageLaneObjects.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_DetectedObjectArray.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_DetectedObjectArray.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_CloudCluster.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_CloudCluster.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ColorSet.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ColorSet.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_StateCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_StateCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjects.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjects.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ControlCommand.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ControlCommand.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_Signals.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Signals.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_LampCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_LampCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_GeometricRectangle.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_GeometricRectangle.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLightResult.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLightResult.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ObjLabel.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ObjLabel.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageRect.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageRect.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ControlCommandStamped.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ControlCommandStamped.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjRanged.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjRanged.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_RemoteCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_RemoteCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_BrakeCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_BrakeCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLight.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLight.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_VscanTracked.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VscanTracked.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLightResultArray.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLightResultArray.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_LaneArray.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_LaneArray.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_VscanTrackedArray.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VscanTrackedArray.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_DTLane.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_DTLane.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObj.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObj.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_VehicleStatus.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VehicleStatus.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_AdjustXY.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_AdjustXY.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ScanImage.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ScanImage.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ProjectionMatrix.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ProjectionMatrix.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ExtractedPosition.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ExtractedPosition.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/__init__.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/__init__.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_Centroids.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Centroids.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_IndicatorCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_IndicatorCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_TunedResult.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TunedResult.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_WaypointState.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_WaypointState.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ICPStat.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ICPStat.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_AccelCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_AccelCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_PointsImage.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_PointsImage.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ObjPose.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ObjPose.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_State.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_State.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjTracked.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjTracked.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_CloudClusterArray.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_CloudClusterArray.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageRectRanged.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageRectRanged.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_DetectedObject.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_DetectedObject.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_Lane.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Lane.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_Waypoint.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Waypoint.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_NDTStat.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_NDTStat.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_VehicleCmd.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VehicleCmd.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_ValueSet.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ValueSet.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/python2.7/dist-packages/rockauto_msgs/msg/_SyncTimeMonitor.py, /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_SyncTimeMonitor.py)
+Cleaning: (/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/lib/pkgconfig/rockauto_msgs.pc, /home/vincent/cnn_seg_lidar/devel/lib/pkgconfig/rockauto_msgs.pc)
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/manifest.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/SyncTimeDiff.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TrafficLightResultArray.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ControlCommand.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/DetectedObjectArray.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObjects.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/SyncTimeMonitor.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/RemoteCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/IndicatorCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/GeometricRectangle.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/BrakeCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageRectRanged.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/PointsImage.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VscanTracked.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/CloudCluster.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/WaypointState.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/LaneArray.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ObjLabel.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ValueSet.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VehicleStatus.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/AdjustXY.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TrafficLightResult.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObjRanged.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VehicleCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/StateCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Centroids.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/DetectedObject.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Signals.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/LampCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/CloudClusterArray.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/AccelCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ProjectionMatrix.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/DTLane.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TrafficLight.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObjTracked.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ExtractedPosition.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/VscanTrackedArray.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageLaneObjects.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Waypoint.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageRect.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ScanImage.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/State.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/NDTStat.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/TunedResult.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/SteerCmd.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ObjPose.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ICPStat.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ControlCommandStamped.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ImageObj.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/ColorSet.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/roseus/ros/rockauto_msgs/msg/Lane.l
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ColorSet.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_CloudClusterArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageLaneObjects.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/LaneArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ProjectionMatrix.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_StateCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/SyncTimeDiff.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_SyncTimeMonitor.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/BrakeCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/AccelCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/WaypointState.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/AdjustXY.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_State.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLightResultArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_SteerCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ExtractedPosition.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObj.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/GeometricRectangle.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_WaypointState.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VehicleStatus.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ICPStat.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/SyncTimeMonitor.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageRect.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_DetectedObject.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VehicleCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/DetectedObject.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VscanTracked.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/State.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/CloudCluster.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObjects.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageRectRanged.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VscanTracked.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TunedResult.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ProjectionMatrix.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TrafficLightResultArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_NDTStat.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/NDTStat.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Waypoint.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ValueSet.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLightResult.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/CloudClusterArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ScanImage.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ScanImage.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ControlCommandStamped.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/DetectedObjectArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TunedResult.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObjTracked.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/DTLane.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ValueSet.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/LampCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_AccelCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ControlCommand.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/RemoteCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Signals.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageRectRanged.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VehicleCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ControlCommand.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Waypoint.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_GeometricRectangle.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_TrafficLight.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Lane.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjects.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TrafficLightResult.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ObjLabel.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjTracked.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_PointsImage.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Centroids.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Centroids.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_DTLane.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/StateCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ExtractedPosition.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VehicleStatus.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_RemoteCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_DetectedObjectArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_Signals.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_AdjustXY.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageLaneObjects.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ColorSet.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/SteerCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageRect.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_LaneArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_SyncTimeDiff.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObj.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_LampCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ObjLabel.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/TrafficLight.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ControlCommandStamped.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_VscanTrackedArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ObjPose.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/Lane.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_CloudCluster.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/VscanTrackedArray.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_IndicatorCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ImageObjRanged.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/IndicatorCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/PointsImage.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/rockauto_msgs-msg.asd
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/ImageObjRanged.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_BrakeCmd.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ObjPose.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/common-lisp/ros/rockauto_msgs/msg/_package_ICPStat.lisp
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgsConfig.cmake
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgs-msg-extras.cmake
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgsConfig-version.cmake
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/rockauto_msgs/cmake/rockauto_msgs-msg-paths.cmake
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/_index.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/AdjustXY.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ScanImage.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TrafficLightResult.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/DetectedObjectArray.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/StateCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/SyncTimeDiff.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ProjectionMatrix.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ICPStat.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/CloudClusterArray.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Signals.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Lane.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/LaneArray.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ObjLabel.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Waypoint.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/CloudCluster.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageLaneObjects.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/BrakeCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/PointsImage.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VehicleCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/DTLane.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObjTracked.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/SteerCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TunedResult.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/State.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObjRanged.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/NDTStat.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/_index.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/WaypointState.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VehicleStatus.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ValueSet.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObj.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/Centroids.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/IndicatorCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageRectRanged.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/LampCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ColorSet.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TrafficLight.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ExtractedPosition.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/AccelCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/DetectedObject.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageRect.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/TrafficLightResultArray.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/RemoteCmd.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ImageObjects.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ObjPose.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ControlCommandStamped.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VscanTracked.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/VscanTrackedArray.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/GeometricRectangle.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/SyncTimeMonitor.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/share/gennodejs/ros/rockauto_msgs/msg/ControlCommand.js
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/DetectedObject.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ICPStat.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/CloudCluster.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageRectRanged.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObj.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/AccelCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ColorSet.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ValueSet.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Waypoint.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Centroids.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/SteerCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TrafficLight.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TrafficLightResult.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VehicleCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VehicleStatus.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ControlCommand.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TrafficLightResultArray.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ObjPose.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/GeometricRectangle.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/RemoteCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/PointsImage.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/NDTStat.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/LaneArray.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/DetectedObjectArray.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObjRanged.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ControlCommandStamped.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/LampCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/State.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObjTracked.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ObjLabel.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Signals.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ExtractedPosition.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/DTLane.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/StateCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/Lane.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/BrakeCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/WaypointState.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageRect.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VscanTrackedArray.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/IndicatorCmd.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/CloudClusterArray.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageLaneObjects.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ImageObjects.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/SyncTimeDiff.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ProjectionMatrix.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/ScanImage.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/TunedResult.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/VscanTracked.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/SyncTimeMonitor.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/include/rockauto_msgs/AdjustXY.h
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/__init__.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_SteerCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_SyncTimeDiff.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageLaneObjects.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_DetectedObjectArray.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_CloudCluster.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ColorSet.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_StateCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjects.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ControlCommand.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Signals.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_LampCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_GeometricRectangle.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLightResult.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ObjLabel.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageRect.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ControlCommandStamped.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjRanged.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_RemoteCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_BrakeCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLight.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VscanTracked.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TrafficLightResultArray.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_LaneArray.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VscanTrackedArray.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_DTLane.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObj.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VehicleStatus.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_AdjustXY.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ScanImage.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ProjectionMatrix.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ExtractedPosition.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/__init__.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Centroids.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_IndicatorCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_TunedResult.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_WaypointState.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ICPStat.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_AccelCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_PointsImage.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ObjPose.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_State.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageObjTracked.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_CloudClusterArray.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ImageRectRanged.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_DetectedObject.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Lane.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_Waypoint.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_NDTStat.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_VehicleCmd.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_ValueSet.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/python2.7/dist-packages/rockauto_msgs/msg/_SyncTimeMonitor.py
+Unlinking: /home/vincent/cnn_seg_lidar/devel/lib/pkgconfig/rockauto_msgs.pc

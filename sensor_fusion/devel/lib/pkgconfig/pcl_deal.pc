@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/sensor_fusion/devel
+
+Name: pcl_deal
+Description: Description of pcl_deal
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

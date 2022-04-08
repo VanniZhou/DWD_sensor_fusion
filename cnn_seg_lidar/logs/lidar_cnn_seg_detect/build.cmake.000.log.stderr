@@ -1,0 +1,5 @@
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+CUDA_cublas_device_LIBRARY (ADVANCED)
+    linked by target "lidar_cnn_seg_detect" in directory /home/vincent/cnn_seg_lidar/src/lidar_cnn_seg_detect
+

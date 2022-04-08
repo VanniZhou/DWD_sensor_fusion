@@ -1,5 +1,7 @@
-## 激光雷达、摄像头、毫米波雷达多传感器融合及融合动态权重分配（DWD）算法(ROS)
-## Lidar, camera, Radar multi-sensor fusion and Dynamic Weight Distribution (DWD) algorithm (ROS)
+# DWD_sensor_fusion
+激光雷达、摄像头、毫米波雷达多传感器融合及融合动态权重分配（DWD）算法(ROS)。
+
+Lidar, camera, Radar multi-sensor fusion and Dynamic Weight Distribution (DWD) algorithm (ROS).
 
 This project is able to fusion the targets of lidar, radar and camera, and assign them dynamic weights according to the Kalman filter effect. And make it running in ROS.
 
@@ -100,7 +102,11 @@ rosrun depthGet depthget
 ```
 
 ### Citation
+
+If necessary, please cite references in the following format.
+
 《无人驾驶汽车多传感器冗余下的数据融合算法研究》https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021903448.nh&uniplatform=NZKPT&v=t5M0EWN6evoE2ju_W3yHNTCQtrs2a8AV05S9fGArHaoCTqXwolD5fLvAW5rufShL
+
 Citation in GB/T 7714-2015 format
 
 ```

@@ -1,0 +1,4 @@
+Symlinking /home/vincent/cnn_seg_lidar/devel/share/state_machine_lib/cmake/state_machine_libConfig.cmake
+Symlinking /home/vincent/cnn_seg_lidar/devel/share/state_machine_lib/cmake/state_machine_libConfig-version.cmake
+Symlinking /home/vincent/cnn_seg_lidar/devel/lib/libstate_machine_lib.so
+Symlinking /home/vincent/cnn_seg_lidar/devel/lib/pkgconfig/state_machine_lib.pc

@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/sensor_fusion/devel
+
+Name: opencv_deal
+Description: Description of opencv_deal
+Version: 0.0.0
+Cflags: -I/home/vincent/sensor_fusion/sensor_fusion/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

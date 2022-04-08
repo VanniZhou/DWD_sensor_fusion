@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/rockauto_build_flags/setup.sh

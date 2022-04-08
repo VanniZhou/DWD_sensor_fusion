@@ -1,0 +1,404 @@
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_VehicleCmd[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ValueSet[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_TrafficLight[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_LaneArray[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_Waypoint[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ImageRect[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_TrafficLight
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_VehicleCmd
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_LaneArray
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ValueSet
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_Waypoint
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ImageRect
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ICPStat[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ScanImage[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_StateCmd[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_AccelCmd[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ScanImage
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ICPStat
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ImageLaneObjects[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_VehicleStatus[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_StateCmd
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ImageObjTracked[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_LampCmd[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_AccelCmd
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_GeometricRectangle[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_AdjustXY[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ImageLaneObjects
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_VehicleStatus
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ImageObjTracked
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ImageRectRanged[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_LampCmd
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ImageObjRanged[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_VscanTracked[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_GeometricRectangle
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_AdjustXY
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_Lane[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_DetectedObject[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_SyncTimeDiff[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ImageRectRanged
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_VscanTracked
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ImageObjRanged
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ProjectionMatrix[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_DTLane[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_CloudCluster[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_DetectedObject
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_Lane
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_SyncTimeDiff
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ImageObj[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ImageObjects[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_IndicatorCmd[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ProjectionMatrix
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_CloudCluster
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_DTLane
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_BrakeCmd[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_SteerCmd[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_Centroids[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ImageObj
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ImageObjects
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_IndicatorCmd
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_TrafficLightResultArray[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ObjPose[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_DetectedObjectArray[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_BrakeCmd
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_SteerCmd
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_Centroids
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_VscanTrackedArray[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_SyncTimeMonitor[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_TrafficLightResultArray
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ObjPose
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_Signals[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_State[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_DetectedObjectArray
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_RemoteCmd[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_VscanTrackedArray
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ColorSet[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_SyncTimeMonitor
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_Signals
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ObjLabel[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_NDTStat[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_State
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ControlCommand[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ExtractedPosition[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_RemoteCmd
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ColorSet
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_PointsImage[0m
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_TrafficLightResult[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_NDTStat
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ObjLabel
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_CloudClusterArray[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ExtractedPosition
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ControlCommand
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_TunedResult[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_PointsImage
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_WaypointState[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_TrafficLightResult
+[35m[1mScanning dependencies of target _rockauto_msgs_generate_messages_check_deps_ControlCommandStamped[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_CloudClusterArray
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_TunedResult
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_WaypointState
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target _rockauto_msgs_generate_messages_check_deps_ControlCommandStamped
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target jsk_recognition_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rockauto_msgs_generate_messages_nodejs[0m
+[  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rockauto_msgs_generate_messages_eus[0m
+[  1%] [34m[1mGenerating Javascript code from rockauto_msgs/GeometricRectangle.msg[0m
+[35m[1mScanning dependencies of target rockauto_msgs_generate_messages_cpp[0m
+[  1%] [34m[1mGenerating Javascript code from rockauto_msgs/LampCmd.msg[0m
+[  1%] [34m[1mGenerating Javascript code from rockauto_msgs/VscanTracked.msg[0m
+[  1%] [34m[1mGenerating EusLisp code from rockauto_msgs/LampCmd.msg[0m
+[35m[1mScanning dependencies of target rockauto_msgs_generate_messages_py[0m
+[  1%] [34m[1mGenerating C++ code from rockauto_msgs/LampCmd.msg[0m
+[  1%] [34m[1mGenerating Python from MSG rockauto_msgs/LampCmd[0m
+[  2%] [34m[1mGenerating Javascript code from rockauto_msgs/Lane.msg[0m
+[35m[1mScanning dependencies of target rockauto_msgs_generate_messages_lisp[0m
+[  2%] [34m[1mGenerating Javascript code from rockauto_msgs/CloudCluster.msg[0m
+[  2%] [34m[1mGenerating Lisp code from rockauto_msgs/LampCmd.msg[0m
+[  2%] [34m[1mGenerating EusLisp code from rockauto_msgs/GeometricRectangle.msg[0m
+[  3%] [34m[1mGenerating EusLisp code from rockauto_msgs/VscanTracked.msg[0m
+[  3%] [34m[1mGenerating Javascript code from rockauto_msgs/TrafficLight.msg[0m
+[  4%] [34m[1mGenerating Python from MSG rockauto_msgs/GeometricRectangle[0m
+[  5%] [34m[1mGenerating Lisp code from rockauto_msgs/GeometricRectangle.msg[0m
+[  5%] [34m[1mGenerating C++ code from rockauto_msgs/GeometricRectangle.msg[0m
+[  6%] [34m[1mGenerating Javascript code from rockauto_msgs/ImageObjects.msg[0m
+[  6%] [34m[1mGenerating Python from MSG rockauto_msgs/VscanTracked[0m
+[  6%] [34m[1mGenerating EusLisp code from rockauto_msgs/Lane.msg[0m
+[  6%] [34m[1mGenerating Lisp code from rockauto_msgs/VscanTracked.msg[0m
+[  6%] [34m[1mGenerating Javascript code from rockauto_msgs/AdjustXY.msg[0m
+[  7%] [34m[1mGenerating EusLisp code from rockauto_msgs/CloudCluster.msg[0m
+[  8%] [34m[1mGenerating Lisp code from rockauto_msgs/Lane.msg[0m
+[  9%] [34m[1mGenerating Javascript code from rockauto_msgs/ImageLaneObjects.msg[0m
+[  9%] [34m[1mGenerating Javascript code from rockauto_msgs/LaneArray.msg[0m
+[ 10%] [34m[1mGenerating C++ code from rockauto_msgs/VscanTracked.msg[0m
+[ 11%] [34m[1mGenerating Python from MSG rockauto_msgs/Lane[0m
+[ 11%] [34m[1mGenerating Lisp code from rockauto_msgs/CloudCluster.msg[0m
+[ 11%] [34m[1mGenerating EusLisp code from rockauto_msgs/TrafficLight.msg[0m
+[ 11%] [34m[1mGenerating C++ code from rockauto_msgs/Lane.msg[0m
+[ 11%] [34m[1mGenerating Javascript code from rockauto_msgs/ICPStat.msg[0m
+[ 11%] [34m[1mGenerating Lisp code from rockauto_msgs/TrafficLight.msg[0m
+[ 12%] [34m[1mGenerating Javascript code from rockauto_msgs/ValueSet.msg[0m
+[ 12%] [34m[1mGenerating EusLisp code from rockauto_msgs/ImageObjects.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from rockauto_msgs/ImageObjects.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG rockauto_msgs/CloudCluster[0m
+[ 14%] [34m[1mGenerating C++ code from rockauto_msgs/CloudCluster.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from rockauto_msgs/ObjLabel.msg[0m
+[ 14%] [34m[1mGenerating Lisp code from rockauto_msgs/AdjustXY.msg[0m
+[ 14%] [34m[1mGenerating C++ code from rockauto_msgs/TrafficLight.msg[0m
+[ 15%] [34m[1mGenerating EusLisp code from rockauto_msgs/AdjustXY.msg[0m
+[ 15%] [34m[1mGenerating Javascript code from rockauto_msgs/DTLane.msg[0m
+[ 16%] [34m[1mGenerating Lisp code from rockauto_msgs/ImageLaneObjects.msg[0m
+[ 16%] [34m[1mGenerating Python from MSG rockauto_msgs/TrafficLight[0m
+[ 17%] [34m[1mGenerating Javascript code from rockauto_msgs/ImageObjRanged.msg[0m
+[ 17%] [34m[1mGenerating C++ code from rockauto_msgs/ImageObjects.msg[0m
+[ 17%] [34m[1mGenerating EusLisp code from rockauto_msgs/ImageLaneObjects.msg[0m
+[ 17%] [34m[1mGenerating Lisp code from rockauto_msgs/LaneArray.msg[0m
+[ 17%] [34m[1mGenerating Javascript code from rockauto_msgs/BrakeCmd.msg[0m
+[ 18%] [34m[1mGenerating Lisp code from rockauto_msgs/ICPStat.msg[0m
+[ 18%] [34m[1mGenerating C++ code from rockauto_msgs/AdjustXY.msg[0m
+[ 18%] [34m[1mGenerating EusLisp code from rockauto_msgs/LaneArray.msg[0m
+[ 19%] [34m[1mGenerating Lisp code from rockauto_msgs/ValueSet.msg[0m
+[ 20%] [34m[1mGenerating Javascript code from rockauto_msgs/TrafficLightResultArray.msg[0m
+[ 21%] [34m[1mGenerating Python from MSG rockauto_msgs/ImageObjects[0m
+[ 21%] [34m[1mGenerating Javascript code from rockauto_msgs/ImageObjTracked.msg[0m
+[ 22%] [34m[1mGenerating EusLisp code from rockauto_msgs/ICPStat.msg[0m
+[ 22%] [34m[1mGenerating Lisp code from rockauto_msgs/ObjLabel.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from rockauto_msgs/Centroids.msg[0m
+[ 23%] [34m[1mGenerating C++ code from rockauto_msgs/ImageLaneObjects.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from rockauto_msgs/SteerCmd.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from rockauto_msgs/ImageRect.msg[0m
+[ 23%] [34m[1mGenerating Lisp code from rockauto_msgs/DTLane.msg[0m
+[ 23%] [34m[1mGenerating EusLisp code from rockauto_msgs/ValueSet.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG rockauto_msgs/AdjustXY[0m
+[ 25%] [34m[1mGenerating EusLisp code from rockauto_msgs/ObjLabel.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from rockauto_msgs/ObjPose.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from rockauto_msgs/ImageObjRanged.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from rockauto_msgs/ScanImage.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from rockauto_msgs/DTLane.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from rockauto_msgs/DetectedObjectArray.msg[0m
+[ 27%] [34m[1mGenerating Lisp code from rockauto_msgs/BrakeCmd.msg[0m
+[ 27%] [34m[1mGenerating C++ code from rockauto_msgs/LaneArray.msg[0m
+[ 28%] [34m[1mGenerating Python from MSG rockauto_msgs/ImageLaneObjects[0m
+[ 28%] [34m[1mGenerating Python from MSG rockauto_msgs/LaneArray[0m
+[ 29%] [34m[1mGenerating Lisp code from rockauto_msgs/TrafficLightResultArray.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from rockauto_msgs/SyncTimeMonitor.msg[0m
+[ 30%] [34m[1mGenerating EusLisp code from rockauto_msgs/ImageObjRanged.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from rockauto_msgs/ImageObjTracked.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from rockauto_msgs/StateCmd.msg[0m
+[ 31%] [34m[1mGenerating EusLisp code from rockauto_msgs/BrakeCmd.msg[0m
+[ 32%] [34m[1mGenerating C++ code from rockauto_msgs/ICPStat.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from rockauto_msgs/Centroids.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from rockauto_msgs/VscanTrackedArray.msg[0m
+[ 32%] [34m[1mGenerating C++ code from rockauto_msgs/ValueSet.msg[0m
+[ 32%] [34m[1mGenerating Python from MSG rockauto_msgs/ICPStat[0m
+[ 33%] [34m[1mGenerating Lisp code from rockauto_msgs/SteerCmd.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from rockauto_msgs/TrafficLightResultArray.msg[0m
+[ 34%] [34m[1mGenerating Javascript code from rockauto_msgs/ColorSet.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from rockauto_msgs/ImageRect.msg[0m
+[ 34%] [34m[1mGenerating Javascript code from rockauto_msgs/DetectedObject.msg[0m
+[ 35%] [34m[1mGenerating C++ code from rockauto_msgs/ObjLabel.msg[0m
+[ 36%] [34m[1mGenerating Python from MSG rockauto_msgs/ValueSet[0m
+[ 37%] [34m[1mGenerating EusLisp code from rockauto_msgs/ImageObjTracked.msg[0m
+[ 37%] [34m[1mGenerating Lisp code from rockauto_msgs/ObjPose.msg[0m
+[ 37%] [34m[1mGenerating C++ code from rockauto_msgs/DTLane.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from rockauto_msgs/SyncTimeDiff.msg[0m
+[ 39%] [34m[1mGenerating Lisp code from rockauto_msgs/ScanImage.msg[0m
+[ 39%] [34m[1mGenerating EusLisp code from rockauto_msgs/Centroids.msg[0m
+[ 39%] [34m[1mGenerating Javascript code from rockauto_msgs/Signals.msg[0m
+[ 39%] [34m[1mGenerating Lisp code from rockauto_msgs/DetectedObjectArray.msg[0m
+[ 39%] [34m[1mGenerating C++ code from rockauto_msgs/ImageObjRanged.msg[0m
+[ 39%] [34m[1mGenerating Python from MSG rockauto_msgs/ObjLabel[0m
+[ 39%] [34m[1mGenerating Javascript code from rockauto_msgs/RemoteCmd.msg[0m
+[ 39%] [34m[1mGenerating EusLisp code from rockauto_msgs/SteerCmd.msg[0m
+[ 40%] [34m[1mGenerating C++ code from rockauto_msgs/BrakeCmd.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from rockauto_msgs/SyncTimeMonitor.msg[0m
+[ 42%] [34m[1mGenerating Javascript code from rockauto_msgs/State.msg[0m
+[ 42%] [34m[1mGenerating Lisp code from rockauto_msgs/StateCmd.msg[0m
+[ 43%] [34m[1mGenerating EusLisp code from rockauto_msgs/ImageRect.msg[0m
+[ 43%] [34m[1mGenerating Javascript code from rockauto_msgs/VehicleStatus.msg[0m
+[ 43%] [34m[1mGenerating Python from MSG rockauto_msgs/DTLane[0m
+[ 43%] [34m[1mGenerating C++ code from rockauto_msgs/TrafficLightResultArray.msg[0m
+[ 43%] [34m[1mGenerating Lisp code from rockauto_msgs/VscanTrackedArray.msg[0m
+[ 43%] [34m[1mGenerating Javascript code from rockauto_msgs/ImageObj.msg[0m
+[ 44%] [34m[1mGenerating Lisp code from rockauto_msgs/ColorSet.msg[0m
+[ 44%] [34m[1mGenerating EusLisp code from rockauto_msgs/ObjPose.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from rockauto_msgs/ProjectionMatrix.msg[0m
+[ 45%] [34m[1mGenerating Lisp code from rockauto_msgs/SyncTimeDiff.msg[0m
+[ 45%] [34m[1mGenerating Lisp code from rockauto_msgs/DetectedObject.msg[0m
+[ 46%] [34m[1mGenerating Python from MSG rockauto_msgs/ImageObjRanged[0m
+[ 46%] [34m[1mGenerating EusLisp code from rockauto_msgs/ScanImage.msg[0m
+[ 47%] [34m[1mGenerating C++ code from rockauto_msgs/ImageObjTracked.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from rockauto_msgs/ControlCommandStamped.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from rockauto_msgs/Signals.msg[0m
+[ 48%] [34m[1mGenerating C++ code from rockauto_msgs/Centroids.msg[0m
+[ 50%] [34m[1mGenerating Javascript code from rockauto_msgs/ImageRectRanged.msg[0m
+[ 50%] [34m[1mGenerating Lisp code from rockauto_msgs/RemoteCmd.msg[0m
+[ 51%] [34m[1mGenerating EusLisp code from rockauto_msgs/DetectedObjectArray.msg[0m
+[ 51%] [34m[1mGenerating Javascript code from rockauto_msgs/WaypointState.msg[0m
+[ 52%] [34m[1mGenerating Lisp code from rockauto_msgs/State.msg[0m
+[ 52%] [34m[1mGenerating Python from MSG rockauto_msgs/BrakeCmd[0m
+[ 52%] [34m[1mGenerating C++ code from rockauto_msgs/SteerCmd.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from rockauto_msgs/TunedResult.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from rockauto_msgs/SyncTimeMonitor.msg[0m
+[ 52%] [34m[1mGenerating Lisp code from rockauto_msgs/VehicleStatus.msg[0m
+[ 53%] [34m[1mGenerating C++ code from rockauto_msgs/ImageRect.msg[0m
+[ 54%] [34m[1mGenerating Javascript code from rockauto_msgs/CloudClusterArray.msg[0m
+[ 54%] [34m[1mGenerating Lisp code from rockauto_msgs/ImageObj.msg[0m
+[ 55%] [34m[1mGenerating EusLisp code from rockauto_msgs/StateCmd.msg[0m
+[ 56%] [34m[1mGenerating Python from MSG rockauto_msgs/TrafficLightResultArray[0m
+[ 56%] [34m[1mGenerating Javascript code from rockauto_msgs/TrafficLightResult.msg[0m
+[ 57%] [34m[1mGenerating C++ code from rockauto_msgs/ObjPose.msg[0m
+[ 57%] [34m[1mGenerating Lisp code from rockauto_msgs/ProjectionMatrix.msg[0m
+[ 57%] [34m[1mGenerating Javascript code from rockauto_msgs/PointsImage.msg[0m
+[ 58%] [34m[1mGenerating Javascript code from rockauto_msgs/ExtractedPosition.msg[0m
+[ 58%] [34m[1mGenerating EusLisp code from rockauto_msgs/VscanTrackedArray.msg[0m
+[ 58%] [34m[1mGenerating Lisp code from rockauto_msgs/ControlCommandStamped.msg[0m
+[ 59%] [34m[1mGenerating Lisp code from rockauto_msgs/ImageRectRanged.msg[0m
+[ 59%] [34m[1mGenerating Javascript code from rockauto_msgs/AccelCmd.msg[0m
+[ 59%] [34m[1mGenerating Python from MSG rockauto_msgs/ImageObjTracked[0m
+[ 59%] [34m[1mGenerating Python from MSG rockauto_msgs/Centroids[0m
+[ 59%] [34m[1mGenerating EusLisp code from rockauto_msgs/ColorSet.msg[0m
+[ 59%] [34m[1mGenerating C++ code from rockauto_msgs/ScanImage.msg[0m
+[ 59%] [34m[1mGenerating Lisp code from rockauto_msgs/WaypointState.msg[0m
+[ 60%] [34m[1mGenerating Javascript code from rockauto_msgs/NDTStat.msg[0m
+[ 60%] [34m[1mGenerating Lisp code from rockauto_msgs/TunedResult.msg[0m
+[ 60%] [34m[1mGenerating Javascript code from rockauto_msgs/IndicatorCmd.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from rockauto_msgs/DetectedObject.msg[0m
+[ 61%] [34m[1mGenerating Javascript code from rockauto_msgs/VehicleCmd.msg[0m
+[ 62%] [34m[1mGenerating C++ code from rockauto_msgs/DetectedObjectArray.msg[0m
+[ 63%] [34m[1mGenerating Lisp code from rockauto_msgs/CloudClusterArray.msg[0m
+[ 64%] [34m[1mGenerating Python from MSG rockauto_msgs/SteerCmd[0m
+[ 64%] [34m[1mGenerating C++ code from rockauto_msgs/SyncTimeMonitor.msg[0m
+[ 65%] [34m[1mGenerating Javascript code from rockauto_msgs/ControlCommand.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from rockauto_msgs/SyncTimeDiff.msg[0m
+[ 65%] [34m[1mGenerating Lisp code from rockauto_msgs/TrafficLightResult.msg[0m
+[ 65%] [34m[1mGenerating Lisp code from rockauto_msgs/PointsImage.msg[0m
+[ 65%] [34m[1mGenerating Javascript code from rockauto_msgs/Waypoint.msg[0m
+[ 65%] [34m[1mGenerating Python from MSG rockauto_msgs/ImageRect[0m
+[ 65%] [34m[1mGenerating EusLisp code from rockauto_msgs/Signals.msg[0m
+[ 66%] [34m[1mGenerating C++ code from rockauto_msgs/StateCmd.msg[0m
+[ 67%] [34m[1mGenerating Lisp code from rockauto_msgs/ExtractedPosition.msg[0m
+[ 67%] Built target rockauto_msgs_generate_messages_nodejs
+[ 67%] [34m[1mGenerating C++ code from rockauto_msgs/VscanTrackedArray.msg[0m
+[ 67%] [34m[1mGenerating C++ code from rockauto_msgs/ColorSet.msg[0m
+[ 67%] [34m[1mGenerating Lisp code from rockauto_msgs/AccelCmd.msg[0m
+[ 68%] [34m[1mGenerating EusLisp code from rockauto_msgs/RemoteCmd.msg[0m
+[ 68%] [34m[1mGenerating Python from MSG rockauto_msgs/ObjPose[0m
+[ 69%] [34m[1mGenerating Lisp code from rockauto_msgs/NDTStat.msg[0m
+[ 70%] [34m[1mGenerating C++ code from rockauto_msgs/DetectedObject.msg[0m
+[ 70%] [34m[1mGenerating EusLisp code from rockauto_msgs/State.msg[0m
+[ 70%] [34m[1mGenerating Lisp code from rockauto_msgs/IndicatorCmd.msg[0m
+[ 70%] [34m[1mGenerating C++ code from rockauto_msgs/SyncTimeDiff.msg[0m
+[ 70%] [34m[1mGenerating C++ code from rockauto_msgs/Signals.msg[0m
+[ 71%] [34m[1mGenerating EusLisp code from rockauto_msgs/VehicleStatus.msg[0m
+[ 72%] [34m[1mGenerating Python from MSG rockauto_msgs/ScanImage[0m
+[ 72%] [34m[1mGenerating Lisp code from rockauto_msgs/VehicleCmd.msg[0m
+[ 73%] [34m[1mGenerating Lisp code from rockauto_msgs/ControlCommand.msg[0m
+[ 73%] [34m[1mGenerating EusLisp code from rockauto_msgs/ImageObj.msg[0m
+[ 75%] [34m[1mGenerating C++ code from rockauto_msgs/RemoteCmd.msg[0m
+[ 75%] [34m[1mGenerating C++ code from rockauto_msgs/State.msg[0m
+[ 75%] [34m[1mGenerating Lisp code from rockauto_msgs/Waypoint.msg[0m
+[ 76%] [34m[1mGenerating C++ code from rockauto_msgs/VehicleStatus.msg[0m
+[ 76%] [34m[1mGenerating Python from MSG rockauto_msgs/DetectedObjectArray[0m
+[ 76%] Built target rockauto_msgs_generate_messages_lisp
+[ 76%] [34m[1mGenerating EusLisp code from rockauto_msgs/ProjectionMatrix.msg[0m
+[ 77%] [34m[1mGenerating EusLisp code from rockauto_msgs/ControlCommandStamped.msg[0m
+[ 77%] [34m[1mGenerating C++ code from rockauto_msgs/ImageObj.msg[0m
+[ 78%] [34m[1mGenerating Python from MSG rockauto_msgs/SyncTimeMonitor[0m
+[ 78%] [34m[1mGenerating C++ code from rockauto_msgs/ProjectionMatrix.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from rockauto_msgs/ImageRectRanged.msg[0m
+[ 79%] [34m[1mGenerating C++ code from rockauto_msgs/ControlCommandStamped.msg[0m
+[ 79%] [34m[1mGenerating C++ code from rockauto_msgs/ImageRectRanged.msg[0m
+[ 80%] [34m[1mGenerating EusLisp code from rockauto_msgs/WaypointState.msg[0m
+[ 80%] [34m[1mGenerating EusLisp code from rockauto_msgs/TunedResult.msg[0m
+[ 80%] [34m[1mGenerating Python from MSG rockauto_msgs/StateCmd[0m
+[ 80%] [34m[1mGenerating EusLisp code from rockauto_msgs/CloudClusterArray.msg[0m
+[ 81%] [34m[1mGenerating Python from MSG rockauto_msgs/VscanTrackedArray[0m
+[ 81%] [34m[1mGenerating EusLisp code from rockauto_msgs/TrafficLightResult.msg[0m
+[ 82%] [34m[1mGenerating C++ code from rockauto_msgs/WaypointState.msg[0m
+[ 83%] [34m[1mGenerating Python from MSG rockauto_msgs/ColorSet[0m
+[ 83%] [34m[1mGenerating C++ code from rockauto_msgs/TunedResult.msg[0m
+[ 83%] [34m[1mGenerating EusLisp code from rockauto_msgs/PointsImage.msg[0m
+[ 83%] [34m[1mGenerating C++ code from rockauto_msgs/CloudClusterArray.msg[0m
+[ 84%] [34m[1mGenerating C++ code from rockauto_msgs/TrafficLightResult.msg[0m
+[ 84%] [34m[1mGenerating Python from MSG rockauto_msgs/DetectedObject[0m
+[ 84%] [34m[1mGenerating C++ code from rockauto_msgs/PointsImage.msg[0m
+[ 84%] [34m[1mGenerating EusLisp code from rockauto_msgs/ExtractedPosition.msg[0m
+[ 84%] [34m[1mGenerating C++ code from rockauto_msgs/ExtractedPosition.msg[0m
+[ 85%] [34m[1mGenerating C++ code from rockauto_msgs/AccelCmd.msg[0m
+[ 86%] [34m[1mGenerating EusLisp code from rockauto_msgs/AccelCmd.msg[0m
+[ 86%] [34m[1mGenerating C++ code from rockauto_msgs/NDTStat.msg[0m
+[ 87%] [34m[1mGenerating Python from MSG rockauto_msgs/SyncTimeDiff[0m
+[ 88%] [34m[1mGenerating C++ code from rockauto_msgs/IndicatorCmd.msg[0m
+[ 88%] [34m[1mGenerating EusLisp code from rockauto_msgs/NDTStat.msg[0m
+[ 88%] [34m[1mGenerating C++ code from rockauto_msgs/VehicleCmd.msg[0m
+[ 88%] [34m[1mGenerating Python from MSG rockauto_msgs/Signals[0m
+[ 89%] [34m[1mGenerating EusLisp code from rockauto_msgs/IndicatorCmd.msg[0m
+[ 89%] [34m[1mGenerating C++ code from rockauto_msgs/ControlCommand.msg[0m
+[ 90%] [34m[1mGenerating C++ code from rockauto_msgs/Waypoint.msg[0m
+[ 90%] [34m[1mGenerating Python from MSG rockauto_msgs/RemoteCmd[0m
+[ 90%] [34m[1mGenerating EusLisp code from rockauto_msgs/VehicleCmd.msg[0m
+[ 91%] [34m[1mGenerating Python from MSG rockauto_msgs/State[0m
+[ 91%] [34m[1mGenerating EusLisp code from rockauto_msgs/ControlCommand.msg[0m
+[ 92%] [34m[1mGenerating EusLisp code from rockauto_msgs/Waypoint.msg[0m
+[ 92%] Built target rockauto_msgs_generate_messages_cpp
+[ 92%] [34m[1mGenerating EusLisp manifest code for rockauto_msgs[0m
+[ 92%] [34m[1mGenerating Python from MSG rockauto_msgs/VehicleStatus[0m
+[ 92%] [34m[1mGenerating Python from MSG rockauto_msgs/ImageObj[0m
+[ 93%] [34m[1mGenerating Python from MSG rockauto_msgs/ProjectionMatrix[0m
+[ 93%] [34m[1mGenerating Python from MSG rockauto_msgs/ControlCommandStamped[0m
+[ 94%] [34m[1mGenerating Python from MSG rockauto_msgs/ImageRectRanged[0m
+[ 94%] [34m[1mGenerating Python from MSG rockauto_msgs/WaypointState[0m
+[ 94%] [34m[1mGenerating Python from MSG rockauto_msgs/TunedResult[0m
+[ 95%] [34m[1mGenerating Python from MSG rockauto_msgs/CloudClusterArray[0m
+[ 95%] [34m[1mGenerating Python from MSG rockauto_msgs/TrafficLightResult[0m
+[ 95%] [34m[1mGenerating Python from MSG rockauto_msgs/PointsImage[0m
+[ 96%] [34m[1mGenerating Python from MSG rockauto_msgs/ExtractedPosition[0m
+[ 96%] [34m[1mGenerating Python from MSG rockauto_msgs/AccelCmd[0m
+[ 97%] [34m[1mGenerating Python from MSG rockauto_msgs/NDTStat[0m
+[ 97%] [34m[1mGenerating Python from MSG rockauto_msgs/IndicatorCmd[0m
+[ 97%] [34m[1mGenerating Python from MSG rockauto_msgs/VehicleCmd[0m
+[ 98%] [34m[1mGenerating Python from MSG rockauto_msgs/ControlCommand[0m
+[ 98%] [34m[1mGenerating Python from MSG rockauto_msgs/Waypoint[0m
+[100%] [34m[1mGenerating Python msg __init__.py for rockauto_msgs[0m
+[100%] Built target rockauto_msgs_generate_messages_py
+[100%] Built target rockauto_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rockauto_msgs_generate_messages[0m
+[100%] Built target rockauto_msgs_generate_messages

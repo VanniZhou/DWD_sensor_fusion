@@ -1,0 +1,2 @@
+depthGet:opencv_deal:pcl_deal
+-DCATKIN_DEVEL_PREFIX=/home/vincent/sensor_fusion/sensor_fusion/devel -DCMAKE_INSTALL_PREFIX=/home/vincent/sensor_fusion/sensor_fusion/install -G Unix Makefiles

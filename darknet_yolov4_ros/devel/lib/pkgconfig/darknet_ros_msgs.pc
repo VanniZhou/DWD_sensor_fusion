@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/darknet_yolov4_ros/devel
+
+Name: darknet_ros_msgs
+Description: Description of darknet_ros_msgs
+Version: 1.1.3
+Cflags: -I/home/vincent/sensor_fusion/darknet_yolov4_ros/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs geometry_msgs sensor_msgs message_runtime std_msgs

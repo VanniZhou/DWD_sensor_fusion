@@ -1,0 +1,4 @@
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libcublas.so', needed by '/home/vincent/cnn_seg_lidar/devel/.private/lidar_cnn_seg_detect/lib/lidar_cnn_seg_detect/lidar_cnn_seg_detect'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/lidar_cnn_seg_detect.dir/all] Error 2
+make: *** [all] Error 2

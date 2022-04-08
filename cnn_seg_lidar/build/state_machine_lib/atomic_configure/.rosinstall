@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/state_machine_lib/setup.sh

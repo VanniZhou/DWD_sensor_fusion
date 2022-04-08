@@ -1,0 +1,6 @@
+devel_space: /home/vincent/sensor_fusion/cnn_seg_lidar/devel
+install: false
+install_space: /home/vincent/sensor_fusion/cnn_seg_lidar/install
+profile: default
+source_space: /home/vincent/sensor_fusion/cnn_seg_lidar/src
+workspace: /home/vincent/sensor_fusion/cnn_seg_lidar

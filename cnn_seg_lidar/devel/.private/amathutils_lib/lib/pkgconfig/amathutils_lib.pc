@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/cnn_seg_lidar/devel/.private/amathutils_lib
+
+Name: amathutils_lib
+Description: Description of amathutils_lib
+Version: 1.7.0
+Cflags: -I/home/vincent/sensor_fusion/cnn_seg_lidar/src/common/libs/amathutils_lib/include
+Libs: -L${prefix}/lib -lamathutils_lib
+Requires: roscpp rockauto_msgs

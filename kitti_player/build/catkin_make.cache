@@ -1,0 +1,2 @@
+kitti_player
+-DCATKIN_DEVEL_PREFIX=/home/vincent/sensor_fusion/kitti_player/devel -DCMAKE_INSTALL_PREFIX=/home/vincent/sensor_fusion/kitti_player/install -G Unix Makefiles

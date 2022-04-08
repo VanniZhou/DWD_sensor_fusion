@@ -1,0 +1,1 @@
+/home/vincent/cnn_seg_lidar/devel/.private/rockauto_msgs/share/roseus/ros/rockauto_msgs/msg/ObjPose.l

@@ -1,0 +1,8 @@
+prefix=/home/vincent/sensor_fusion/kitti_player/devel
+
+Name: kitti_player
+Description: Description of kitti_player
+Version: 1.0.2
+Cflags: -I/home/vincent/sensor_fusion/kitti_player/devel/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure

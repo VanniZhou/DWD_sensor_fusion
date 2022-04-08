@@ -1,0 +1,2 @@
+darknet_ros_old/darknet_ros:darknet_ros_old/darknet_ros_msgs
+-DCATKIN_DEVEL_PREFIX=/home/vincent/sensor_fusion/darknet_yolov4_ros/devel -DCMAKE_INSTALL_PREFIX=/home/vincent/sensor_fusion/darknet_yolov4_ros/install -G Unix Makefiles

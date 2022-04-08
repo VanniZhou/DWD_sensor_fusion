@@ -1,0 +1,4 @@
+Symlinking /home/vincent/cnn_seg_lidar/devel/share/detected_objects_visualizer/cmake/detected_objects_visualizerConfig-version.cmake
+Symlinking /home/vincent/cnn_seg_lidar/devel/share/detected_objects_visualizer/cmake/detected_objects_visualizerConfig.cmake
+Symlinking /home/vincent/cnn_seg_lidar/devel/lib/detected_objects_visualizer/visualize_detected_objects
+Symlinking /home/vincent/cnn_seg_lidar/devel/lib/pkgconfig/detected_objects_visualizer.pc

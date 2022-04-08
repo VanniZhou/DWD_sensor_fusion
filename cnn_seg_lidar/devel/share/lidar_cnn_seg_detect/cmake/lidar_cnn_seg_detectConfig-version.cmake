@@ -1,0 +1,1 @@
+/home/vincent/cnn_seg_lidar/devel/.private/lidar_cnn_seg_detect/share/lidar_cnn_seg_detect/cmake/lidar_cnn_seg_detectConfig-version.cmake

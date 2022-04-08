@@ -1,0 +1,1 @@
+/home/vincent/cnn_seg_lidar/devel/.private/catkin_tools_prebuild/local_setup.bash
